@@ -7,12 +7,13 @@
 # Hero-Zero.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/3.0.0.0/)
 
 A little helper to automate actions in game and much more... for you! :smiley:
+After a few years of rest, the bot is celebrating a small comeback - with support for the **ARM-/Linux-/MacOS-/Windows** operating systems! :smirk: :sunglasses:
 
 ### Features
-* Duels &nd League 
-* ~~Hideout~~
-* ~~Missions~~
-* ~~Training~~
+* Duels &nd League (*Opponent selection based on efficiency and chance*)
+* ~~Hideout~~ (*Define amount of bots per/attack, collect rooms*)
+* ~~Missions~~ (*Selection based on efficiency, experience points or items*)
+* ~~Training~~ (*Selection based on efficiency*)
 
 ### Requirements (Windows-/MacOS-/Linux)
 
